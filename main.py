@@ -486,4 +486,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Game(name="เล่นไรก็ได้บอทดี"))
 
 
-bot.run('ODYyNTQzNDc1NjQ4MTAyNDE0.YOZ4NQ.d1HhMN9hecEsicxK_S02PeEs47g')
+bot.run('')
